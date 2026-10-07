@@ -2,11 +2,10 @@
   
 # 👋 Hello, I'm Shubham Vishwakarma
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Problem+Solver;MERN+Stack+Enthusiast+%7C+C%2B%2B+Developer;Passionate+about+Clean+Code+%26+Innovation;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Problem+Solver;Java+%7C+Spring+Boot+%7C+Backend+Development;Passionate+about+Clean+Code+%26+Scalable+Systems;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
-
-### 🌟 Passionate Backend Developer specializing in Java from India 🇮🇳
+🌟 Passionate Backend Developer specializing in Java from India 🇮🇳
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShubhamV-17&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/ShubhamV-17)
