@@ -4,6 +4,8 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Problem+Solver;Java+%7C+Spring+Boot+%7C+Backend+Development;Passionate+about+Clean+Code+%26+Scalable+Systems;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
+
+
 <br/>
 🌟 Passionate Backend Developer specializing in Java from India 🇮🇳
 
@@ -30,6 +32,10 @@
 - 💬 Ask me about **Java, Backend Development, Data Structures and Algorithms**
   
 - 📫 How to reach me shubham10137@gmail.com
+- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamV-17/ShubhamV-17/main/coding%20pro.svg" width="500" alt="Coding illustration">
+</div>
 
 ## 🚀 About Me
 
