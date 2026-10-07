@@ -32,7 +32,7 @@
 - 💬 Ask me about **Java, Backend Development, Data Structures and Algorithms**
   
 - 📫 How to reach me shubham10137@gmail.com
-- 
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShubhamV-17/ShubhamV-17/main/coding%20pro.svg" width="500" alt="Coding illustration">
 </div>
